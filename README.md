@@ -45,27 +45,10 @@
     <a target="_blank" href="https://www.linkedin.com/in/mihajlo-kragujevski" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
     <a target="_blank" href="https://medium.com/@kmihajlo" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
     <a target="_blank" href="https://www.instagram.com/kmihajlo__" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+    <a style="margin: 100px;" href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kmihajlo&style=for-the-badge&base=700"></a>
   </p>
 </div>
-  
-###
-
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KMihajlo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KMihajlo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/KMihajlo/KMihajlo/output/snake.svg" alt="Snake animation" />
 </div>
-  
-###
-  
-<br clear="both">
-  
-<img src="https://raw.githubusercontent.com/KMihajlo/KMihajlo/output/snake.svg" alt="Snake animation" />
-  
-###
-  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KMihajlo/count.svg?"  />
-</div>
-  
-###
